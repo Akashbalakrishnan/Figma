@@ -32,6 +32,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
+![output](out.png)
 
 
 ## RESULT:
